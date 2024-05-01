@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "lint-staged": "^15.2.2"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
+}
