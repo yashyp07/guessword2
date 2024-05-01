@@ -72,7 +72,6 @@ Project is in progress
 
 ### Acknowlegdement
 * This project was inspired by scribble.io 
-* Many thanks to Scaler
 
 ### Contact
-Created by [Pratham Kumar](https://www.linkedin.com/in/pratham-kumar-111237192/) - feel free to contact me!
+Created by Yash Patni 
